@@ -14,7 +14,7 @@ warnings.simplefilter(action='ignore', category=FutureWarning)
 
 
 # Base metadata. MUST BE EDITED.
-BASE_IMAGE_URL = "QmNMi9vcLoq61yUsy4KKaHuQmbtWVGjW4N7xfnZpfnmAy7"
+BASE_IMAGE_URL = ""
 BASE_NAME = "Hookah Mafia Club"
 
 BASE_JSON = {
