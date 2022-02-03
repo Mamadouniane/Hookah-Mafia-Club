@@ -14,12 +14,12 @@ warnings.simplefilter(action='ignore', category=FutureWarning)
 
 
 # Base metadata. MUST BE EDITED.
-BASE_IMAGE_URL = ""
-BASE_NAME = "Hookah Mafia Club"
+BASE_IMAGE_URL = "ipfs://QmUPmGbyDWBMDouJ1oHn52gPEvYUaNU7t5D89jxdJ6UBC4"
+BASE_NAME = "Hookah Mafia #"
 
 BASE_JSON = {
     "name": BASE_NAME,
-    "description": "",
+    "description": "A Collection Of 100 Unique Hookahs",
     "image": BASE_IMAGE_URL,
     "attributes": [],
 }
